@@ -87,7 +87,6 @@ Open your browser and go to: `http://localhost:5000/`
 ## Contact
 For any queries or collaboration opportunities:
 - **GitHub**: [Vamshikrishna779](https://github.com/Vamshikrishna779)
-- **LinkedIn**: [LinkedIn](www.linkedin.com/in/vamshikrishna9608/)
 
 ## License
 This project is licensed under the **MIT License**.
